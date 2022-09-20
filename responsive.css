@@ -1,0 +1,30 @@
+@media (max-width: 1000px) {
+    
+    .list-rute {
+        width: 100%;
+        padding-top: 60px;
+        height: auto;
+    }
+
+    .rute {
+        width: 200px;
+        float: none;
+    }
+
+    .partner-list {
+        width: 100%;
+        padding-top: 60px;
+        height: auto;
+    }
+
+    .kartu-partner {
+        width: 150px;
+        float: none;
+    }
+
+    .footer-section {
+        text-align: center;
+        font-size: 20px;
+    }
+        
+}
